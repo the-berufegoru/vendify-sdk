@@ -24,7 +24,7 @@
     "url": "git+https://github.com/the-berufegoru/vendify-sdk.git"
   },
   "author": "the-berufegor",
-  "license": "MIT License",
+  "license": "BSD-3-Clause",
   "bugs": {
     "url": "https://github.com/the-berufegoru/vendify-sdk/issues"
   },
