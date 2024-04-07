@@ -38,7 +38,7 @@
 
 **_Our documentation module source code resides in `vendify-sdk/docs`_**
 
-**_If you would like to make contributions to the Cartify SDK documentation source, here is a [guide](https://github.com/the-berufegoru/vendify-sdk/blob/main/CONTRIBUTING.md) in doing so._**
+**_If you would like to make contributions to the Vendify SDK documentation source, here is a [guide](https://github.com/the-berufegoru/vendify-sdk/blob/main/CONTRIBUTING.md) in doing so._**
 
 ## Contributing
 
