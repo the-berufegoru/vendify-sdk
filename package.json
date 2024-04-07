@@ -1,0 +1,41 @@
+{
+  "name": "vendify-sdk",
+  "version": "0.0.0",
+  "description": "Fast, powerful, and easy to use JavaScript SDK for building and managing carts, checkouts and receipts for your e-commerce front-end from the cartify API.",
+  "homepage": "https://github.com/the-berufegoru/vendify-sdk#readme",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "lint": "eslint .",
+    "lint:fix": "eslint --fix .",
+    "format": "prettier --write .",
+    "format:check": "prettier --check .",
+    "test": "jest --coverage=true --coverageReporters=cobertura",
+    "test:coverage": "jest --coverage",
+    "test:watch": "jest --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/the-berufegoru/vendify-sdk.git"
+  },
+  "author": "the-berufegor",
+  "license": "BSD 3-Clause License",
+  "bugs": {
+    "url": "https://github.com/the-berufegoru/vendify-sdk/issues"
+  },
+  "keywords": [
+    "vendify-sdk",
+    "sdk",
+    "ecommerce",
+    "headless-ecommerce-sdk"
+  ],
+  "engines": {
+    "node": ">=16.0.0",
+    "npm": ">=7.10.0"
+  }
+}
